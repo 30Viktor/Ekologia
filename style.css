@@ -1,0 +1,67 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/2024758.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+#uliki{background-color: rgba(0, 102, 22, 0.623);
+font-size: 30px;
+width:800px;
+height: 500px;
+border-radius: 20px;
+display: flex;
+justify-content: center;
+color: rgb(0, 36, 0);
+box-shadow: 10px 10px 20px rgba(0, 26, 0, 0.753);
+transition: 1s;
+}
+#uliki:hover{
+    color: rgba(255, 255, 172, 0.87);
+}
+#right{
+    background-color: rgba(0, 102, 22, 0.623);
+    font-size: 30px;
+    width:800px;
+    height: 500px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 36, 0);
+    box-shadow: 10px 10px 20px rgba(0, 26, 0, 0.753);
+    transition: 1s;
+    align-items: center;
+margin-left: 50px;
+}
+#right:hover{
+    color: rgba(255, 255, 172, 0.87);
+}
+main{margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+footer{
+    background-color: rgba(0, 102, 22, 0.623);
+    font-size: 30px;
+    width: 1650px;
+    height: 80px;   
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 36, 0);
+    box-shadow: 10px 10px 20px rgba(0, 26, 0, 0.753);
+    transition: 1s;
+}
+footer:hover{
+    color: rgba(255, 255, 172, 0.87);
+}
+#giv{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
